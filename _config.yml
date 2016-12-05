@@ -52,3 +52,14 @@ tocs:
   - tools
   - samples
   - support
+
+collections:
+  thtest-v1.4:
+    output: true
+    permalink: /th/v1.4/:path
+  thtest-v1.3:
+    output: true
+    permalink: /th/v1.3/:path
+  thtest-v1.2:
+    output: true
+    permalink: /th/v1.2/:path
